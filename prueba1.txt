@@ -1,1 +1,2 @@
 Fichero prueba1
+Línea nueva en prueba1
